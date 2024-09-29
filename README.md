@@ -1,4 +1,4 @@
-# StudyNotion Online Education Platform (MERN App) [Website Link]([https://studynotion-frontend.vercel.app/](https://studynotion-frontend.vercel.app/courses/647108f8eac761698a700ce1))
+# StudyNotion Online Education Platform (MERN App) [Website Link]([https://study-notion-an-ed-tech-platform-two.vercel.app/])
 
 ![Main Page](images/mainpage.png)
 
